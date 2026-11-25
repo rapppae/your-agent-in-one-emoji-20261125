@@ -6,7 +6,7 @@ The entry is a single emoji and nothing else, no trailing newline.
 
 import os
 
-ENTRY = "🤖"
+ENTRY = "🧠"
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Your Agent in One Emoji](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4).
 
-> 🤖
+> 🧠
 
 ## Run
 
